@@ -12,11 +12,14 @@ public class PS3 extends PS4{
 	public int increment() {
 		// TODO Auto-generated method stub
   a = a+1;
+  System.out.println("Branch development 2");
   return a;
 	}
 	public int decrement() {
 		// TODO Auto-generated method stub
   a = a-1;
+  
+  System.out.println("Branch development 1");
   return a;
 	}
 

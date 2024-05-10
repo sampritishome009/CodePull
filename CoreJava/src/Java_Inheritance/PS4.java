@@ -14,6 +14,7 @@ public class PS4 { //another utility class as requested by clients
 
 	public int multiplyTwo() {
 		a=a*2;
+		System.out.println("Branch development 3");
 		return a;
 	}
 	
@@ -21,6 +22,7 @@ public class PS4 { //another utility class as requested by clients
 	public int multiplyThree() {
 		a=a*3;
 		System.out.println("new ages");
+		System.out.println("Branch development 4");
 		return a;
 	}
 }
