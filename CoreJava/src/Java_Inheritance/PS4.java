@@ -20,6 +20,7 @@ public class PS4 { //another utility class as requested by clients
 
 	public int multiplyThree() {
 		a=a*3;
+		System.out.println("new ages");
 		return a;
 	}
 }
